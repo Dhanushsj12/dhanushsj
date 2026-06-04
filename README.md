@@ -1,7 +1,7 @@
 
 
 
-# Hi, # Dhanush S J
+# Hi, Im Dhanush S J
 
 Pre-Final Year Integrated M.Tech (Software Engineering) student at Vellore Institute of Technology (VIT) with a strong interest in Software Engineering, Artificial Intelligence, and Backend Development.
 
